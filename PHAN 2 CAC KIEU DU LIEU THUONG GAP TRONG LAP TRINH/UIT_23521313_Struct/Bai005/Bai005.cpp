@@ -15,11 +15,10 @@ void Xuat(HONSO);
 
 int main()
 {
-	HONSO x;
-	cout << "Nhap vao hon so X: " << endl;
-	Nhap(x);
+	HONSO M;
+	Nhap(M);
 	cout << "Hon so vua nhap: ";
-	Xuat(x);
+	Xuat(M);
 	return 0;
 }
 
