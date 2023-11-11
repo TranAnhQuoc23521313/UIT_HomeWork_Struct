@@ -1,0 +1,3 @@
+﻿  Bai011.cpp
+D:\MINHTRIET\Y1\NMLT\Matrix\UIT_23521651_Struct\Bai011\Bai011.cpp(27,10): error C3861: 'setw': identifier not found
+D:\MINHTRIET\Y1\NMLT\Matrix\UIT_23521651_Struct\Bai011\Bai011.cpp(28,10): error C3861: 'setprecision': identifier not found
