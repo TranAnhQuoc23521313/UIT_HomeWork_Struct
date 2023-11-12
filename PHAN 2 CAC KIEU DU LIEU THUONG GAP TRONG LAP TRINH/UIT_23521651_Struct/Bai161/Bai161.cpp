@@ -11,7 +11,7 @@ struct DaThuc
 typedef struct DaThuc DATHUC;
 
 void Nhap(DATHUC&);
-DATHUC Tong(DATHUC, DATHUC);
+DATHUC Hieu(DATHUC, DATHUC);
 void Xuat(DATHUC);
 int LonNhat(int, int);
 void GiamBac(DATHUC&);
